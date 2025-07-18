@@ -46,7 +46,7 @@ Edit
 - Logic building for recommendation engines
 - Exploratory Data Analysis (EDA)
 
-## ✅ Future Improvements
+##  Future Improvements
 
 - Add interactive UI using `Streamlit` or `Flask`
 - Connect to a real database (like Firebase or MongoDB)
